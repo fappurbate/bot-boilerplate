@@ -1,7 +1,7 @@
 {
   "name": "@fappurbate/bot-boilerplate",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "Quick setup for Chaturbate apps & bots that should communicate with Fappurbate extensions.",
   "main": "src/index.js",
   "scripts": {
     "dev": "npx gulp dev",
@@ -21,7 +21,7 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
-    "@fappurbate/channel-bot": "^0.1.5"
+    "@fappurbate/channel-bot": "^1.0.0"
   },
   "engines": {
     "node": ">=8.15"
